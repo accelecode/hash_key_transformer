@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Kevin Rood"]
   spec.email         = ["kevin.rood@accelecode.com"]
 
-  spec.summary       = %q{hash_key_transformer makes it easy to transform a JSON-like data structure from one style of key to another (for example, from camelCase to snake_case).}
-  spec.description   = %q{hash_key_transformer makes it easy to transform a JSON-like data structure from one style of key to another (for example, from camelCase to snake_case).}
+  spec.summary       = %q{hash_key_transformer makes it easy to deeply transform a JSON-like data structure from one style of key to another (for example, from camelCase to snake_case).}
+  spec.description   = %q{hash_key_transformer makes it easy to deeply transform a JSON-like data structure from one style of key to another (for example, from camelCase to snake_case).}
   spec.homepage      = "https://github.com/accelecode/hash_key_transformer"
   spec.license       = "Apache-2.0"
 

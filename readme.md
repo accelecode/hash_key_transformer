@@ -2,7 +2,7 @@
 
 Ruby applications typically use underscore (also called "`snake_case`") as their convention for `Hash` keys. When sending data from a Ruby application to another application it is often useful to transform the style of hash keys to the style expected by the other application (`camelCase` or `dashed-case` for example). Likewise, when receiving data from an external application, it is often useful to transform the style of incoming hash keys to the underscore style common in Ruby.
 
-`hash_key_transformer` makes it easy to transform a JSON-like data structure from one style of key to another.
+`hash_key_transformer` makes it easy to deeply transform a JSON-like data structure from one style of key to another.
 
 The following transformations are supported:
 
