@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    hash_key_transformer (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.16)
+  hash_key_transformer!
+
+BUNDLED WITH
+   1.16.1
