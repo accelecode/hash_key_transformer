@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    hash_key_transformer (0.1.1)
+    hash_key_transformer (0.1.2)
 
 GEM
   remote: https://rubygems.org/
